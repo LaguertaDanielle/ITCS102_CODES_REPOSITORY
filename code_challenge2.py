@@ -1,5 +1,5 @@
 #money to deposit
-money = 3551
+money = 3493
 
 one_thousand = money//1000
 five_hundred = (money%1000)//500
