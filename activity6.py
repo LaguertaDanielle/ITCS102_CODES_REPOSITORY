@@ -1,9 +1,17 @@
-#name = "Danielle R. Laguerta"
+#int(), eval(), float()
+x = eval(input("What are you doing? "))
 
-#print("Hi ", name," How are you doin? ")
+sum = x + 18
 
-name = input("What is your name? ")
+print("Total = ", sum)
 
-print("Hi ", name," How are you doin? ")
+print(type(x))
+
+x = float(input("What are you doing? "))
 
 
+sum = x - 2.3
+
+print("Total = ", sum)
+
+print(type(x))
