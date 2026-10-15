@@ -1,4 +1,4 @@
-for a in range(6,0,-1):
+for a in range(7,0,-1):
     for b in range(1,a):
          print("*" ,end =" ")
     print("*")
